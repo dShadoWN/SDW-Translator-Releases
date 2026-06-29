@@ -15,10 +15,10 @@
 ## ⚡ Features
 
 - **Multi-Engine Support:** Seamlessly translate games built on:
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Ren%27Py.svg" alt="Ren'Py" width="16" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/Rpyc Decompilation)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/RPG%20Maker.svg" alt="RPG Maker" width="16" style="vertical-align: middle; display: inline;"/> RPG Maker MV/MZ (JSON processing)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Unity.svg" alt="Unity" width="16" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets scanning & injection)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="32" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Ren%27Py.svg" alt="Ren'Py" width="32" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/Rpyc Decompilation)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/RPG%20Maker.svg" alt="RPG Maker" width="32" style="vertical-align: middle; display: inline;"/> RPG Maker MV/MZ (JSON processing)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Unity.svg" alt="Unity" width="32" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets scanning & injection)
 
 - **Automatic Dialogue Extraction:** Pulls out dialogue efficiently without breaking code logic.
 
