@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator/main/public/logo.png" alt="SDW Translator Logo" width="120" />
+  <img src="https://github.com/dShadoWN/SDW-Translator-Releases/blob/3d1da2fffd2bc234a1cbe267fd6a5718d690b0fd/icons/logo.png" alt="SDW Translator Logo" width="120" />
   
   # SDW Translator (Releases)
   
@@ -12,7 +12,7 @@
 
 ---
 
-## âœ¨ Features
+## ✨ Features
 
 - **Multi-Engine Support:** Seamlessly translate games built on:
   - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
@@ -30,22 +30,22 @@
 
 ---
 
-## ğŸŒ Supported Languages
+## 🌍 Supported Languages
 
 Translate your game to and from **22 languages** to reach a global audience:
 
 | | | | |
 |---|---|---|---|
-| ğŸ‡¬ğŸ‡§ English | ğŸ‡¹ğŸ‡· Turkish | ğŸ‡ªğŸ‡¸ Spanish | ğŸ‡«ğŸ‡· French |
-| ğŸ‡©ğŸ‡ª German | ğŸ‡µğŸ‡¹ Portuguese | ğŸ‡®ğŸ‡¹ Italian | ğŸ‡·ğŸ‡º Russian |
-| ğŸ‡¨ğŸ‡³ Chinese | ğŸ‡¯ğŸ‡µ Japanese | ğŸ‡°ğŸ‡· Korean | ğŸ‡»ğŸ‡³ Vietnamese |
-| ğŸ‡¸ğŸ‡¦ Arabic | ğŸ‡¹ğŸ‡­ Thai | ğŸ‡µğŸ‡± Polish | ğŸ‡³ğŸ‡± Dutch |
-| ğŸ‡¸ğŸ‡ª Swedish | ğŸ‡¨ğŸ‡¿ Czech | ğŸ‡·ğŸ‡´ Romanian | ğŸ‡ºğŸ‡¦ Ukrainian |
-| ğŸ‡®ğŸ‡© Indonesian | ğŸ‡­ğŸ‡º Hungarian | | |
+| 🇬🇧 English | 🇹🇷 Turkish | 🇪🇸 Spanish | 🇫🇷 French |
+| 🇩🇪 German | 🇵🇹 Portuguese | 🇮🇹 Italian | 🇷🇺 Russian |
+| 🇨🇳 Chinese | 🇯🇵 Japanese | 🇰🇷 Korean | 🇻🇳 Vietnamese |
+| 🇸🇦 Arabic | 🇹🇭 Thai | 🇵🇱 Polish | 🇳🇱 Dutch |
+| 🇸🇪 Swedish | 🇨🇿 Czech | 🇷🇴 Romanian | 🇺🇦 Ukrainian |
+| 🇮🇩 Indonesian | 🇭🇺 Hungarian | | |
 
 ---
 
-## ğŸ“¦ Installation & Usage
+## 📦 Installation & Usage
 
 ### Getting Started
 
@@ -67,7 +67,7 @@ The application includes automatic update detection. When a new version is relea
 
 ---
 
-## ğŸ”§ Configuration
+## 🔧 Configuration
 
 Configure your translation settings:
 
@@ -78,7 +78,7 @@ Configure your translation settings:
 
 ---
 
-## ğŸ“ License
+## 📝 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
