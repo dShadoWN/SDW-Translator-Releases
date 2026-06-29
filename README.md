@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator/main/public/logo.png" alt="SDW Translator Logo" width="120" />
   
   # SDW Translator (Releases)
@@ -12,30 +12,65 @@
 
 ---
 
-## âœ¨ Features
+## ✨ Features
 
 - **Multi-Engine Support:** Seamlessly translate games built on:
-  - ğŸš€ Godot Engine (PCK Extraction & Repacking)
-  - ğŸŒ¸ Ren'Py Engine (RPA/Rpyc Decompilation)
-  - âš”ï¸ RPG Maker MV/MZ (JSON processing)
-  - ğŸ§Š Unity Engine (Assets scanning & injection)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/Godot%20Engine%20Symbol%20SVG.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/Ren%27Py%20Symbol%20SVG.svg" alt="Ren'Py" width="16" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/Rpyc Decompilation)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/RPG%20Maker.svg" alt="RPG Maker" width="16" style="vertical-align: middle; display: inline;"/> RPG Maker MV/MZ (JSON processing)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/Unity%20Software%20Symbol%20SVG.svg" alt="Unity" width="16" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets scanning & injection)
+
 - **Automatic Dialogue Extraction:** Pulls out dialogue efficiently without breaking code logic.
+
 - **Dynamic Font Override:** Injects custom fonts (TTF/OTF) to support your target language seamlessly.
+
 - **Translation Memory (Cache):** Avoids re-translating the same strings, saving API limits and time.
+
 - **Multiple Translation APIs:** Support for Google Translate, DeepL, Yandex, and more!
 
-## ğŸ“¦ Installation & Updates
+---
 
-1. Go to the [**Releases Tab**](https://github.com/dShadoWN/SDW-Translator-Releases/releases).
-2. Download the latest .exe or .msi setup file.
-3. Run the installer.
-4. **Auto-Updates:** The app will automatically notify you and download updates when new versions are published here!
+## 📦 Installation & Usage
 
-## ğŸ“œ License
+### Getting Started
 
-This project is licensed under the MIT License.
+1. Visit the [**Releases Page**](https://github.com/dShadoWN/SDW-Translator-Releases/releases)
+2. Download the latest `.exe` or `.msi` installer
+3. Run the installer and follow the setup wizard
+4. Launch the application and configure your preferred translation API
+
+### Auto-Updates
+
+The application includes automatic update detection. When a new version is released here, you'll be notified and can download updates directly from within the app.
+
+### Supported Games
+
+- **Godot Engine** - Any game compiled with Godot (4.x, 3.x support)
+- **Ren'Py** - All Ren'Py visual novels and games
+- **RPG Maker MV/MZ** - All projects built with RPG Maker
+- **Unity** - Games built with Unity Engine
 
 ---
+
+## 🔧 Configuration
+
+Configure your translation settings:
+
+- Select your target translation engine (Google Translate, DeepL, Yandex, etc.)
+- Choose your source and target languages
+- Set custom fonts for the target language
+- Adjust extraction and repacking options per engine
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
 <div align="center">
-  <i>Created & Developed by .sadow</i>
+  <sub>Created & Developed by <b>.sadow</b></sub>
+  <br>
+  <sub>For issues, suggestions, or contributions, visit the <a href="https://github.com/dShadoWN/SDW-Translator-Releases">repository</a></sub>
 </div>
