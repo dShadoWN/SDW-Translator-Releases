@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator/main/public/logo.png" alt="SDW Translator Logo" width="120" />
   
   # SDW Translator (Releases)
@@ -12,13 +12,13 @@
 
 ---
 
-## ✨ Features
+## âœ¨ Features
 
 - **Multi-Engine Support:** Seamlessly translate games built on:
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/Godot%20Engine%20Symbol%20SVG.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/Ren%27Py%20Symbol%20SVG.svg" alt="Ren'Py" width="16" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/Rpyc Decompilation)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/RPG%20Maker.svg" alt="RPG Maker" width="16" style="vertical-align: middle; display: inline;"/> RPG Maker MV/MZ (JSON processing)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/Unity%20Software%20Symbol%20SVG.svg" alt="Unity" width="16" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets scanning & injection)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Ren%27Py.svg" alt="Ren'Py" width="16" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/Rpyc Decompilation)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/RPG%20Maker.svg" alt="RPG Maker" width="16" style="vertical-align: middle; display: inline;"/> RPG Maker MV/MZ (JSON processing)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Unity.svg" alt="Unity" width="16" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets scanning & injection)
 
 - **Automatic Dialogue Extraction:** Pulls out dialogue efficiently without breaking code logic.
 
@@ -30,12 +30,12 @@
 
 ---
 
-## 📦 Installation & Usage
+## ğŸ“¦ Installation & Usage
 
 ### Getting Started
 
 1. Visit the [**Releases Page**](https://github.com/dShadoWN/SDW-Translator-Releases/releases)
-2. Download the latest `.exe` or `.msi` installer
+2. Download the latest .exe or .msi installer
 3. Run the installer and follow the setup wizard
 4. Launch the application and configure your preferred translation API
 
@@ -52,7 +52,7 @@ The application includes automatic update detection. When a new version is relea
 
 ---
 
-## 🔧 Configuration
+## ğŸ”§ Configuration
 
 Configure your translation settings:
 
@@ -63,7 +63,7 @@ Configure your translation settings:
 
 ---
 
-## 📝 License
+## ğŸ“ License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
