@@ -12,7 +12,7 @@
 
 ---
 
-## âœ¨ Features
+## ⚡ Features
 
 - **Multi-Engine Support:** Seamlessly translate games built on:
   - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
@@ -30,7 +30,7 @@
 
 ---
 
-## ğŸ“¦ Installation & Usage
+## 📝 Installation & Usage
 
 ### Getting Started
 
@@ -52,7 +52,7 @@ The application includes automatic update detection. When a new version is relea
 
 ---
 
-## ğŸ”§ Configuration
+## ⚙️ Configuration
 
 Configure your translation settings:
 
@@ -63,7 +63,7 @@ Configure your translation settings:
 
 ---
 
-## ğŸ“ License
+## ©️ License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
