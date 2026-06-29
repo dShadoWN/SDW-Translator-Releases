@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://github.com/dShadoWN/SDW-Translator-Releases/blob/3d1da2fffd2bc234a1cbe267fd6a5718d690b0fd/icons/logo.png" alt="SDW Translator Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator/main/public/logo.png" alt="SDW Translator Logo" width="120" />
   
   # SDW Translator (Releases)
   
@@ -12,13 +12,13 @@
 
 ---
 
-## ⚡ Features
+## âœ¨ Features
 
 - **Multi-Engine Support:** Seamlessly translate games built on:
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="24" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Ren%27Py.svg" alt="Ren'Py" width="24" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/Rpyc Decompilation)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/RPG%20Maker.svg" alt="RPG Maker" width="24" style="vertical-align: middle; display: inline;"/> RPG Maker MV/MZ (JSON processing)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Unity.svg" alt="Unity" width="24" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets scanning & injection)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Ren%27Py.svg" alt="Ren'Py" width="16" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/Rpyc Decompilation)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/RPG%20Maker.svg" alt="RPG Maker" width="16" style="vertical-align: middle; display: inline;"/> RPG Maker MV/MZ (JSON processing)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Unity.svg" alt="Unity" width="16" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets scanning & injection)
 
 - **Automatic Dialogue Extraction:** Pulls out dialogue efficiently without breaking code logic.
 
@@ -26,18 +26,33 @@
 
 - **Translation Memory (Cache):** Avoids re-translating the same strings, saving API limits and time.
 
-- **Multiple Translation APIs:** Support for Google Translate, DeepL, Yandex, and more!
+- **Translation API:** Currently powered by Google Translate, with more engines coming soon!
 
 ---
 
-## 📝 Installation & Usage
+## ğŸŒ Supported Languages
+
+Translate your game to and from **22 languages** to reach a global audience:
+
+| | | | |
+|---|---|---|---|
+| ğŸ‡¬ğŸ‡§ English | ğŸ‡¹ğŸ‡· Turkish | ğŸ‡ªğŸ‡¸ Spanish | ğŸ‡«ğŸ‡· French |
+| ğŸ‡©ğŸ‡ª German | ğŸ‡µğŸ‡¹ Portuguese | ğŸ‡®ğŸ‡¹ Italian | ğŸ‡·ğŸ‡º Russian |
+| ğŸ‡¨ğŸ‡³ Chinese | ğŸ‡¯ğŸ‡µ Japanese | ğŸ‡°ğŸ‡· Korean | ğŸ‡»ğŸ‡³ Vietnamese |
+| ğŸ‡¸ğŸ‡¦ Arabic | ğŸ‡¹ğŸ‡­ Thai | ğŸ‡µğŸ‡± Polish | ğŸ‡³ğŸ‡± Dutch |
+| ğŸ‡¸ğŸ‡ª Swedish | ğŸ‡¨ğŸ‡¿ Czech | ğŸ‡·ğŸ‡´ Romanian | ğŸ‡ºğŸ‡¦ Ukrainian |
+| ğŸ‡®ğŸ‡© Indonesian | ğŸ‡­ğŸ‡º Hungarian | | |
+
+---
+
+## ğŸ“¦ Installation & Usage
 
 ### Getting Started
 
 1. Visit the [**Releases Page**](https://github.com/dShadoWN/SDW-Translator-Releases/releases)
 2. Download the latest .exe or .msi installer
 3. Run the installer and follow the setup wizard
-4. Launch the application and configure your preferred translation API
+4. Launch the application and configure your translation settings
 
 ### Auto-Updates
 
@@ -52,18 +67,18 @@ The application includes automatic update detection. When a new version is relea
 
 ---
 
-## ⚙️ Configuration
+## ğŸ”§ Configuration
 
 Configure your translation settings:
 
-- Select your target translation engine (Google Translate, DeepL, Yandex, etc.)
+- Select Google Translate as your translation engine
 - Choose your source and target languages
 - Set custom fonts for the target language
 - Adjust extraction and repacking options per engine
 
 ---
 
-## ©️ License
+## ğŸ“ License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
