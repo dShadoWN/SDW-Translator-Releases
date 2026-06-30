@@ -6,7 +6,7 @@
   **A powerful, multi-engine game translation tool with smart text extraction and dynamic UI font injection.**
   
   [![Release](https://img.shields.io/github/v/release/dShadoWN/SDW-Translator-Releases?style=for-the-badge&color=00ffcc)](https://github.com/dShadoWN/SDW-Translator-Releases/releases)
-  [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)](https://github.com/dShadoWN/SDW-Translator-Releases/releases)
+  [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge)](https://github.com/dShadoWN/SDW-Translator-Releases/releases)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 </div>
 
@@ -15,10 +15,10 @@
 ## ✨ Features
 
 - **Multi-Engine Support:** Seamlessly translate games built on:
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extraction & Repacking)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Ren%27Py.svg" alt="Ren'Py" width="16" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/Rpyc Decompilation)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/RPG%20Maker.svg" alt="RPG Maker" width="16" style="vertical-align: middle; display: inline;"/> RPG Maker MV/MZ (JSON processing)
-  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Unity.svg" alt="Unity" width="16" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets scanning & injection)
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Godot.svg" alt="Godot" width="16" style="vertical-align: middle; display: inline;"/> Godot Engine (PCK Extra[...]
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Ren%27Py.svg" alt="Ren'Py" width="16" style="vertical-align: middle; display: inline;"/> Ren'Py Engine (RPA/[...]
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/RPG%20Maker.svg" alt="RPG Maker" width="16" style="vertical-align: middle; display: inline;"/> RPG Maker MV/[...]
+  - <img src="https://raw.githubusercontent.com/dShadoWN/SDW-Translator-Releases/main/icons/Unity.svg" alt="Unity" width="16" style="vertical-align: middle; display: inline;"/> Unity Engine (Assets sc[...]
 
 - **Automatic Dialogue Extraction:** Pulls out dialogue efficiently without breaking code logic.
 
