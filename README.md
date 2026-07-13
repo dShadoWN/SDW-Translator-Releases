@@ -1,5 +1,5 @@
-﻿<div align="center">
-  <img src="https://github.com/dShadoWN/SDW-Translator-Releases/blob/3d1da2fffd2bc234a1cbe267fd6a5718d690b0fd/icons/logo.png" alt="SDW Translator Logo" width="120" />
+<div align="center">
+  <img src="https://github.com/dShadoWN/SDW-Translator-Releases/blob/b28ffbf8a7dd3e757df8b218d806369b95cc3e56/icons/banner.png" alt="SDW Translator Logo" width="1200" />
   
   # SDW Translator (Releases)
   
